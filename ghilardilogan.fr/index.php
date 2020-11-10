@@ -9,6 +9,7 @@
 <?php
 date_default_timezone_set('Europe/Paris');
 echo 'Nous sommes le ' . date('d-m-Y');
+echo 'Nous sommes le ' . date('d-m-Y');
 ?>
 </body>
 </html>
