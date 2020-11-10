@@ -8,9 +8,9 @@
           integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
 </head>
 <body>
-<div class="container-fluid">
+<div class="container">
     <header>
-        <nav class="navbar navbar-light bg-dark">
+        <nav class="navbar navbar-light bg-light">
             <a class="navbar-brand" href="#">Logan Ghilardi</a>
         </nav>
     </header>
@@ -20,6 +20,10 @@
     echo 'Nous sommes le ' . date('d-m-Y') . ' Il est ' . date('H:i:s');
     ?>
     <p>Comment ça va ?</p>
+    <div class="col">
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias amet, at atque, commodi, dolore expedita
+            fugit harum illum ipsam natus numquam odit officiis porro quisquam ratione sapiente tempora ullam unde!</p>
+    </div>
 </div>
 </body>
 </html>
