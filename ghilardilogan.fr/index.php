@@ -1,7 +1,6 @@
-<h1>
+<h1>Bienvenue sur mon site</h1>
 <?php
 date_default_timezone_set('Europe/Paris');
-echo date('Y-m-d H:i:s');
-echo date('Y-m-d H:i:s');
+echo 'Nous sommes le ' . date('d-m-Y');
 ?>
-</h1>
+
