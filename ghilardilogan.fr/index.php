@@ -5,7 +5,7 @@
     <title>Logan Ghilardi</title>
 </head>
 <body>
-<h1>Bienvenue sur mon site</h1>
+<h5>Bienvenue sur mon site</h5>
 <?php
 date_default_timezone_set('Europe/Paris');
 echo 'Nous sommes le ' . date('d-m-Y');
