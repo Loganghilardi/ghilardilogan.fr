@@ -7,7 +7,7 @@
           integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
 </head>
 <body>
-<div class="container-flex">
+<div class="container-fluid">
     <header>
         <nav class="navbar navbar-light bg-dark">
             <a class="navbar-brand" href="#">Logan Ghilardi</a>
