@@ -9,8 +9,8 @@
 <body>
 <div class="container-flex">
     <header>
-        <nav class="navbar navbar-light bg-light">
-            <a class="navbar-brand" href="#">Navbar</a>
+        <nav class="navbar navbar-light bg-dark">
+            <a class="navbar-brand" href="#">Logan Ghilardi</a>
         </nav>
     </header>
     <h5>Bienvenue sur mon site</h5>
