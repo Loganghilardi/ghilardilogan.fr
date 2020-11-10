@@ -10,5 +10,6 @@
 date_default_timezone_set('Europe/Paris');
 echo 'Nous sommes le ' . date('d-m-Y') . ' Il est ' . date('H:i:s');
 ?>
+<p>Comment ça va ?</p>
 </body>
 </html>
